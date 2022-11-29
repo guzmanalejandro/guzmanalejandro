@@ -1,4 +1,4 @@
-## 👋 Hello to everyone and welcome to the profile of Alejandro Guzman in GitHub.
+## 👋 Welcome to the profile of Alejandro Guzman in GitHub.
 
 I am currently studying computer engineering at the University of Barcelona as my main activity in my day to day, but I also develop others for academic or economic purposes. My main interests are data science, machine learning, artificial intelligence and Big Data. Soon I will develop specific repositories in order to expand my knowledge in the field of research on the aforementioned topics.
 
