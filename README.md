@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @guzmanalejandro
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on Big Data projects
-- 📫 If you have any doubts of any work of mine, don't hesitate to contact me.
+- 👋 Hello to everyone and welcome to the profile of Alejandro Guzman in GitHub.
 
-<!---
-guzmanalejandro/guzmanalejandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently studying computer engineering at the University of Barcelona as my main activity in my day to day, but I also develop others for academic or economic purposes.
+
+In my profile you will find public repositories about personal projects that I have carried out during my university studies, at work or for simple research.
+
+The sections of the repositories are organized as clearly as possible, but if you have any questions, don't hesitate to contact me, I will answer you within a maximum period of 48 working hours.
